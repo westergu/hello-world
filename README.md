@@ -1,5 +1,11 @@
 # hello-world
-This is my Patchwork Amsterdam repository. Please share your favorite places in Amsterdam to get:
+This is my Patchwork Amsterdam repository.
+
+```ruby
+puts 'Hello World!'
+```
+
+No, this is not really about code, please share your favorite places in Amsterdam to get:
 
 ## Coffee
 * [Back to Black](http://www.backtoblackcoffee.nl/) - Really great coffee :coffee: and great welcome by the :cat2:
