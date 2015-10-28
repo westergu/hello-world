@@ -12,3 +12,9 @@ This is my Patchwork Amsterdam repository. Please share your favorite places in 
 
 ## Dinner
 * [Gebr. Harterink](http://www.gebr-hartering.nl/)
+
+## Drinks
+* [Sky Lounge](http://www.skyloungeamsterdam.com/en/)
+
+
+
