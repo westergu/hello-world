@@ -18,6 +18,7 @@ No, this is not really about code, please share your favorite places in Amsterda
 
 ## Dinner
 * [Gebr. Harterink](http://www.gebr-hartering.nl/) - Prepare for a great nine course meal and a big bill at the end :wine_glass: :+1: :cry:
+* [Cannibale Royale](http://www.cannibaleroyale.nl/) - Cool Steaks and nice atmosphere
 
 ## Drinks
 * [Sky Lounge](http://www.skyloungeamsterdam.com/en/) - Good cocktails and a great view over Amsterdam :house: :cocktail:
