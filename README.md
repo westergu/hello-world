@@ -22,6 +22,7 @@ No, this is not really about code, please share your favorite places in Amsterda
 
 ## Drinks
 * [Sky Lounge](http://www.skyloungeamsterdam.com/en/) - Good cocktails and a great view over Amsterdam :house: :cocktail:
+* [Hannekes Boom](http://www.hannekesboom.nl/) - Great location at the waterfront and great atmosphere
 
 
 
