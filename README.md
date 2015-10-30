@@ -5,7 +5,7 @@ This is my Patchwork Amsterdam repository with great references for places to ea
 puts 'Hello World!'
 ```
 
-No, this is not really about code, please share your favorite places in Amsterdam to get:
+No, this is not really about code development, please share your favorite places in Amsterdam to get:
 
 ## Coffee-Tea
 * [Back to Black](http://www.backtoblackcoffee.nl/) - Really great coffee :coffee: and great welcome by the :cat2:
