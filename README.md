@@ -1,6 +1,12 @@
 # hello-world
 This is my Patchwork Amsterdam repository with great references for places to eat and drink.
 
+Here is a checklist:
+ - [ ] Create code snippet
+ - [ ] Add categories
+ - [ ] Add restaurants and bars
+ - [ ] Share
+
 ```ruby
 puts 'Hello World!'
 ```
