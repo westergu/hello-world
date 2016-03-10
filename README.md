@@ -9,6 +9,7 @@ No, this is not really about code development. Please share your favorite places
 
 ## Coffee-Tea
 * [Back to Black](http://www.backtoblackcoffee.nl/) - Really great coffee :coffee: and great welcome by the :cat2:
+* [Forward to White](http://www.amstelhotel.nl/) - Original English tea
 
 ## Breakfast
 * [Scandinavian Embassy](http://scandinavianembassy.nl/) - Try the salmon with pached egg :smile:
